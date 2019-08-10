@@ -1,2 +1,2 @@
 # personal-blog
-adonisjs, nodejs, MongoDB, rest-admin API
+adonisjs, nodejs, MongoDB, rest-admin API, admin dashboard
